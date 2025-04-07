@@ -1,0 +1,1 @@
+This project is a Rock Paper Scissors game which will serve as the basis for practicing the Javascript knowledge I have acquired thus far.
